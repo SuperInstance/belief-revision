@@ -1,0 +1,9 @@
+[package]
+name = "belief-revision"
+version = "0.1.0"
+edition = "2021"
+description = "AGM belief revision framework with exhaustive postulate verification"
+repository = "https://github.com/SuperInstance/belief-revision"
+license = "MIT"
+
+[dev-dependencies]
